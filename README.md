@@ -47,61 +47,71 @@ See `extensionDependencies` section in `package.json`:
 List as `displayName`, `publisher`.`name` (aka Unique Identifier), GitHub URL
 [, "description", notes]:
 
-- Java Language Support `redhat.java`
+- Java Language Support `redhat.java`  
 https://github.com/redhat-developer/vscode-java
-- Maven Project Explorer `vscjava.vscode-maven`
+- Maven Project Explorer `vscjava.vscode-maven`  
 https://github.com/Microsoft/vscode-maven
-- Debugger for Java `vscjava.vscode-java-debug`
+- Debugger for Java `vscjava.vscode-java-debug`  
 https://github.com/Microsoft/vscode-java-debug
-- Java Test Runner `vscjava.vscode-java-test`
+- Java Test Runner `vscjava.vscode-java-test`  
 https://github.com/Microsoft/vscode-java-test
-- Spring Initializr Java Support `vscjava.vscode-spring-initializr`
+- Spring Initializr Java Support `vscjava.vscode-spring-initializr`  
 https://github.com/Microsoft/vscode-spring-initializr
 
-- Spring Boot Java Support `Pivotal.vscode-boot-java`
+- Spring Boot Java Support `Pivotal.vscode-boot-java`  
 https://github.com/spring-projects/sts4/tree/master/vscode-extensions
-- Spring Boot Application Properties Support `Pivotal.vscode-boot-properties`
+- Spring Boot Application Properties Support `Pivotal.vscode-boot-properties`  
 https://github.com/spring-projects/sts4/tree/master/vscode-extensions
-- Java Properties `ithildir.java-properties`
+- Java Properties `ithildir.java-properties`  
 https://github.com/ithildir/vscode-java-properties
 "A port of the TextMate Java Properties (`.properties`) syntax highlighting for Visual Studio Code."
-- Java Decompiler `dgileadi.java-decompiler`
+- Java Decompiler `dgileadi.java-decompiler`  
 https://github.com/dgileadi/vscode-java-decompiler
-- vscode-icons `robertohuertasm.vscode-icons`
+- vscode-icons `robertohuertasm.vscode-icons`  
 https://github.com/vscode-icons/vscode-icons
 
 ### Not included
 
-- SonarLint `SonarSource.sonarlint-vscode`  
+- SonarLint `SonarSource.sonarlint-vscode`    
 SonarLint does not yet have [support for Java
 #13](https://github.com/SonarSource/sonarlint-vscode/pull/13)
 - jsh
-`joshuansu.jshell`
+`joshuansu.jshell`  
 https://github.com/joshuansu0897/Extension-Jshell-Code
 Java 9+ Shell (JShell) support
 - Java Language Support
-`georgewfraser.vscode-javac`
+`georgewfraser.vscode-javac`  
 https://github.com/georgewfraser/vscode-javac
 "Java support using the Java Compiler API" is alternative to using language server
 - Java Debug
-`DSnake.java-debug`
+`DSnake.java-debug`  
 https://github.com/go-bin/vscode-java-debug
 (Last commit Jan 2017)
 - Java Snippets
-`tushortz.java-snippets`
+`tushortz.java-snippets`  
 https://github.com/tushortz/vscode-Java-Snippets
 Only one release, all completions are in one 10MB `java_complete.json`
 - Java Imports Snippets
-`tushortz.java-imports-snippets`
+`tushortz.java-imports-snippets`  
 https://github.com/tushortz/vscode-Java-Imports
 Only one release. Entering import starts with typing `_`
 - Java Linter
-`faustinoaq.javac-linter`
+`faustinoaq.javac-linter`  
 https://github.com/faustinoaq/vscode-javac-linter
 "A simple Java linter for Visual Studio Code using the the language server protocol."
-- Spring Boot Support `ecmel.vscode-spring-boot`
+- Spring Boot Support `ecmel.vscode-spring-boot`  
 https://github.com/ecmel/vscode-spring-boot
-- Java Server Pages (JSP) `pthorsson.vscode-jsp`
-(IMHO .jsp as is not the best server-side templating)
+- Java Server Pages (JSP) `pthorsson.vscode-jsp`  
 Let template engine support stay optional.
 
+## Feedback
+
+- [GitHub issues](https://github.com/paulvi/vscode-java-ide-pack/issues)
+
+## Developing
+
+- https://github.com/paulvi/vscode-java-ide-pack
+
+### Links and docs
+
+- https://code.visualstudio.com/docs/extensions/publish-extension
