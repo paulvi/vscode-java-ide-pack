@@ -1,0 +1,8 @@
+node_modules
+.vsix
+icon-bank
+.vscode/**
+.vscode-test/**
+vsc-extension-quickstart.md
+*.vsix
+

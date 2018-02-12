@@ -73,8 +73,7 @@ https://github.com/vscode-icons/vscode-icons
 ### Not included
 
 - SonarLint `SonarSource.sonarlint-vscode`    
-SonarLint does not yet have [support for Java
-#13](https://github.com/SonarSource/sonarlint-vscode/pull/13)
+SonarLint does not yet have [support for Java #13](https://github.com/SonarSource/sonarlint-vscode/pull/13)
 - jsh
 `joshuansu.jshell`  
 https://github.com/joshuansu0897/Extension-Jshell-Code
@@ -115,3 +114,7 @@ Let template engine support stay optional.
 ### Links and docs
 
 - https://code.visualstudio.com/docs/extensions/publish-extension
+
+https://code.visualstudio.com/docs/extensions/overview
+
+https://pverest.visualstudio.com/_details/security/tokens
