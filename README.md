@@ -18,6 +18,8 @@ The pack is to give compatible set, of extensions that complement each other. Re
 - JDK 8. `java`, `javac` on path
 - Maven, `mvn` on path
 
+[How to update VS Code](http://dailydotnettips.com/2015/07/07/4-simple-steps-auto-update-to-visual-studio-code/)
+
 ## Install
 
 Open VS Code Extension view (press `Ctrl + Shift + X`), type `java-ide-pack`.
@@ -113,8 +115,6 @@ Let template engine support stay optional.
 
 ### Links and docs
 
+- https://code.visualstudio.com/docs/extensions/overview
 - https://code.visualstudio.com/docs/extensions/publish-extension
 
-https://code.visualstudio.com/docs/extensions/overview
-
-https://pverest.visualstudio.com/_details/security/tokens
