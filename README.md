@@ -28,6 +28,9 @@ Or launch VS Code Quick Open (`Ctrl + P`), paste the following command, and pres
 ```bash
 ext install java-ide-pack
 ```
+<!--
+[How to install extention offline](https://stackoverflow.com/questions/37071388/how-to-install-vscode-extensions-offline)
+-->
 
 ### Included
 
