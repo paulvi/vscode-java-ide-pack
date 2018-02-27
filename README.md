@@ -34,21 +34,6 @@ ext install java-ide-pack
 
 ### Included
 
-See `extensionDependencies` section in `package.json`:
-
-    "extensionDependencies": [ 
-        "redhat.java",
-        "vscjava.vscode-maven",
-        "vscjava.vscode-java-debug",
-        "vscjava.vscode-java-test",
-        "vscjava.vscode-spring-initializr"
-        "Pivotal.vscode-boot-java", 
-        "Pivotal.vscode-boot-properties",
-        "ithildir.java-properties",
-        "dgileadi.java-decompiler", 
-        "robertohuertasm.vscode-icons"
-    ]
-
 List as `displayName`, `publisher`.`name` (aka Unique Identifier), GitHub URL
 [, "description", notes]:
 
@@ -63,9 +48,7 @@ https://github.com/Microsoft/vscode-java-test
 - Spring Initializr Java Support `vscjava.vscode-spring-initializr`  
 https://github.com/Microsoft/vscode-spring-initializr
 
-- Spring Boot Java Support `Pivotal.vscode-boot-java`  
-https://github.com/spring-projects/sts4/tree/master/vscode-extensions
-- Spring Boot Application Properties Support `Pivotal.vscode-boot-properties`  
+- Spring Boot Java Tools `Pivotal.vscode-spring-boot`  
 https://github.com/spring-projects/sts4/tree/master/vscode-extensions
 - Java Properties `ithildir.java-properties`  
 https://github.com/ithildir/vscode-java-properties
@@ -74,6 +57,21 @@ https://github.com/ithildir/vscode-java-properties
 https://github.com/dgileadi/vscode-java-decompiler
 - vscode-icons `robertohuertasm.vscode-icons`  
 https://github.com/vscode-icons/vscode-icons
+
+See `extensionDependencies` section in `package.json`:
+
+    "extensionDependencies": [ 
+        "redhat.java",
+        "vscjava.vscode-maven",
+        "vscjava.vscode-java-debug",
+        "vscjava.vscode-java-test",
+        "vscjava.vscode-spring-initializr"
+        "Pivotal.vscode-spring-boot",
+        "ithildir.java-properties",
+        "dgileadi.java-decompiler", 
+        "robertohuertasm.vscode-icons"
+    ]
+
 
 ### Not included
 
