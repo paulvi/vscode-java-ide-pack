@@ -2,7 +2,7 @@
     "name": "java-ide-pack",
     "displayName": "Java IDE Pack",
     "description": "All Java extensions to bootstrap VS Code for Java development.",
-    "version": "0.2.0",
+    "version": "0.3.0",
     "publisher": "pverest",
     "engines": {
         "vscode": "^1.19.0"

@@ -1,6 +1,8 @@
 
 # Java IDE Pack
 
+[![Marketplace Version](https://vsmarketplacebadge.apphb.com/version/pverest.java-ide-pack.svg "Current Release")](https://marketplace.visualstudio.com/items?itemName=pverest.java-ide-pack)
+
 In pursuit of the best Java tooling in VS Code.
 
 As of Feb 2018 VS Code has become more than editor. 
@@ -48,7 +50,7 @@ https://github.com/Microsoft/vscode-java-test
 - Spring Initializr Java Support `vscjava.vscode-spring-initializr`  
 https://github.com/Microsoft/vscode-spring-initializr
 
-- Spring Boot Java Tools `Pivotal.vscode-spring-boot`  
+- Spring Boot Tools `Pivotal.vscode-spring-boot`  
 https://github.com/spring-projects/sts4/tree/master/vscode-extensions
 - Java Properties `ithildir.java-properties`  
 https://github.com/ithildir/vscode-java-properties
