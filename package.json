@@ -2,7 +2,7 @@
     "name": "java-ide-pack",
     "displayName": "Java IDE Pack",
     "description": "All Java extensions to bootstrap VS Code for Java development.",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "publisher": "pverest",
     "engines": {
         "vscode": "^1.19.0"
@@ -38,8 +38,7 @@
         "vscjava.vscode-java-debug",
         "vscjava.vscode-java-test",
         "vscjava.vscode-spring-initializr",
-        "Pivotal.vscode-boot-java", 
-        "Pivotal.vscode-boot-properties",
+        "Pivotal.vscode-spring-boot",
         "ithildir.java-properties",
         "dgileadi.java-decompiler", 
         "robertohuertasm.vscode-icons"
