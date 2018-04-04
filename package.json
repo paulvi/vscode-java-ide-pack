@@ -41,6 +41,7 @@
         "Pivotal.vscode-spring-boot",
         "ithildir.java-properties",
         "dgileadi.java-decompiler", 
-        "robertohuertasm.vscode-icons"
+        "robertohuertasm.vscode-icons",
+        "adashen.vscode-tomcat"
     ]
 }
