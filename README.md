@@ -59,6 +59,8 @@ https://github.com/ithildir/vscode-java-properties
 https://github.com/dgileadi/vscode-java-decompiler
 - vscode-icons `robertohuertasm.vscode-icons`  
 https://github.com/vscode-icons/vscode-icons
+- Tomcat for Java `adashen.vscode-tomcat`  
+https://github.com/adashen/vscode-tomcat
 
 See `extensionDependencies` section in `package.json`:
 
@@ -71,7 +73,8 @@ See `extensionDependencies` section in `package.json`:
         "Pivotal.vscode-spring-boot",
         "ithildir.java-properties",
         "dgileadi.java-decompiler", 
-        "robertohuertasm.vscode-icons"
+        "robertohuertasm.vscode-icons",
+        "adashen.vscode-tomcat"
     ]
 
 
