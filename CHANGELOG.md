@@ -1,6 +1,7 @@
 # Change Log
 
-## [Unreleased]
+## 0.4.0 - 2018-04-04
+- added Tomcat, thanks to SummerSun for Pull Request
 
 
 ## 0.3.1 - 2018-02-28
