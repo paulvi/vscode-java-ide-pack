@@ -1,3 +1,4 @@
+![](duke-plug.png)
 
 # Java IDE Pack
 
