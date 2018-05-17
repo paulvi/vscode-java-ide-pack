@@ -14,6 +14,8 @@ but note that feature contribution is done by particular extention listed below 
 
 The pack is to give compatible set, of extensions that complement each other. Requirements are those that satisfy all extensions.
 
+Hint: this IDE pack also allows comfortably to disable Java plugins for workspace where you are to use other language stack.
+
 ### Requirements
 
 - VS Code 1.19+
