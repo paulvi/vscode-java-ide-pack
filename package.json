@@ -31,7 +31,7 @@
     "bugs": {
         "url": "https://github.com/paulvi/vscode-java-ide-pack/issues"
     },
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "redhat.java",
         "vscjava.vscode-java-pack",
         "vscjava.vscode-maven",
