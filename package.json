@@ -2,7 +2,7 @@
     "name": "java-ide-pack",
     "displayName": "Java IDE Pack",
     "description": "All Java extensions to bootstrap VS Code for Java development.",
-    "version": "1.0.1",
+    "version": "1.1.1",
     "publisher": "pverest",
     "engines": {
        "vscode": "^1.26.0"
@@ -42,6 +42,7 @@
         "ithildir.java-properties",
         "dgileadi.java-decompiler", 
         "robertohuertasm.vscode-icons",
-        "adashen.vscode-tomcat"
+        "adashen.vscode-tomcat",
+        "YouMayCallMeV.vscode-java-saber"
     ]
 }

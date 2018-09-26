@@ -1,4 +1,4 @@
-![](https://./duke-plug.png)
+![](https://raw.githubusercontent.com/paulvi/vscode-java-ide-pack/master/duke-plug.png)
 
 # Java IDE Pack
 
@@ -19,7 +19,7 @@ Hint: this IDE pack also allows comfortably to disable Java plugins for workspac
 
 ### Requirements
 
-- VS Code 1.19+
+- VS Code 1.26+
 - JDK 8. `java`, `javac` on path
 - Maven, `mvn` on path
 
@@ -64,8 +64,10 @@ https://github.com/dgileadi/vscode-java-decompiler
 https://github.com/vscode-icons/vscode-icons
 - Tomcat for Java `adashen.vscode-tomcat`  
 https://github.com/adashen/vscode-tomcat
+- "Java IDE" extention  
+<https://github.com/jiangdequan/vscode-java-saber>
 
-See `extensionPack` section in `package.json` ( no need for hard dependency of `extensionDependencies`) :
+See `extensionPack` section in `package.json`:
 
     "extensionPack": [ 
         "redhat.java",
@@ -80,6 +82,7 @@ See `extensionPack` section in `package.json` ( no need for hard dependency of `
         "adashen.vscode-tomcat"
     ]
 
+No need for hard dependency of `extensionDependencies`, see [Extension Pack management](https://code.visualstudio.com/updates/v1_26#_extension-pack-management).
 
 ### Not included
 
