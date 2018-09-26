@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.2.0 - 2018-09-26
+- include "Spring Boot Dashboard" `vscjava.vscode-spring-boot-dashboard`
+https://github.com/Microsoft/vscode-spring-boot-dashboard
+
 ## 1.1.1 - 2018-09-26
 - include "Java IDE" extention <https://github.com/jiangdequan/vscode-java-saber>
 

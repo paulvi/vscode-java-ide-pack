@@ -52,7 +52,8 @@ https://github.com/Microsoft/vscode-java-debug
 https://github.com/Microsoft/vscode-java-test
 - Spring Initializr Java Support `vscjava.vscode-spring-initializr`  
 https://github.com/Microsoft/vscode-spring-initializr
-
+- "Spring Boot Dashboard" `vscjava.vscode-spring-boot-dashboard`
+https://github.com/Microsoft/vscode-spring-boot-dashboard
 - Spring Boot Tools `Pivotal.vscode-spring-boot`  
 https://github.com/spring-projects/sts4/tree/master/vscode-extensions
 - Java Properties `ithildir.java-properties`  
