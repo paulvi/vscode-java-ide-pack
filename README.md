@@ -67,7 +67,7 @@ https://github.com/adashen/vscode-tomcat
 - "Java IDE" extention  
 <https://github.com/jiangdequan/vscode-java-saber>
 
-See `extensionPack` section in `package.json`:
+See `extensionPack` section in [`package.json`](https://github.com/paulvi/vscode-java-ide-pack/blob/master/package.json):
 
     "extensionPack": [ 
         "redhat.java",
