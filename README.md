@@ -121,6 +121,8 @@ https://github.com/NeverCL/vscode-java-run
 
 ## Feedback
 
+Please let know if you created or found new VS Code extention
+
 - [GitHub issues](https://github.com/paulvi/vscode-java-ide-pack/issues)
 
 ## Developing
