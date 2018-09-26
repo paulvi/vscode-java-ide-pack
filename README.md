@@ -68,22 +68,9 @@ https://github.com/adashen/vscode-tomcat
 - "Java IDE" extention  
 <https://github.com/jiangdequan/vscode-java-saber>
 
-See `extensionPack` section in [`package.json`](https://github.com/paulvi/vscode-java-ide-pack/blob/master/package.json):
+See `extensionPack` section in [`package.json`](https://github.com/paulvi/vscode-java-ide-pack/blob/master/package.json).
 
-    "extensionPack": [ 
-        "redhat.java",
-        "vscjava.vscode-maven",
-        "vscjava.vscode-java-debug",
-        "vscjava.vscode-java-test",
-        "vscjava.vscode-spring-initializr"
-        "Pivotal.vscode-spring-boot",
-        "ithildir.java-properties",
-        "dgileadi.java-decompiler", 
-        "robertohuertasm.vscode-icons",
-        "adashen.vscode-tomcat"
-    ]
-
-No need for hard dependency of `extensionDependencies`, see [Extension Pack management](https://code.visualstudio.com/updates/v1_26#_extension-pack-management).
+Since v1.126 there is no need for hard dependency of `extensionDependencies`, see [Extension Pack management](https://code.visualstudio.com/updates/v1_26#_extension-pack-management).
 
 ### Not included
 
