@@ -1,4 +1,4 @@
-![](duke-plug.png)
+![](https://./duke-plug.png)
 
 # Java IDE Pack
 
