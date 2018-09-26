@@ -65,9 +65,9 @@ https://github.com/vscode-icons/vscode-icons
 - Tomcat for Java `adashen.vscode-tomcat`  
 https://github.com/adashen/vscode-tomcat
 
-See `extensionDependencies` section in `package.json`:
+See `extensionPack` section in `package.json` ( no need for hard dependency of `extensionDependencies`) :
 
-    "extensionDependencies": [ 
+    "extensionPack": [ 
         "redhat.java",
         "vscjava.vscode-maven",
         "vscjava.vscode-java-debug",

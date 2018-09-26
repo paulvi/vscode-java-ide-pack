@@ -1,5 +1,9 @@
 # Change Log
 
+## 1.0.0 - 2018-09-26
+- use `extensionPack` soft dependencies, see [VSCode v1.26 update notes](https://code.visualstudio.com/updates/v1_26#_extension-packs-revisited)
+and [Extension Pack management](https://code.visualstudio.com/updates/v1_26#_extension-pack-management)
+
 ## 0.4.0 - 2018-04-04
 - added Tomcat, thanks to SummerSun for Pull Request
 
