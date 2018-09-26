@@ -68,7 +68,7 @@ https://github.com/adashen/vscode-tomcat
 - "Java IDE" extention  
 <https://github.com/jiangdequan/vscode-java-saber>
 
-See `extensionPack` section in `package.json`:
+See `extensionPack` section in [`package.json`](https://github.com/paulvi/vscode-java-ide-pack/blob/master/package.json):
 
     "extensionPack": [ 
         "redhat.java",
@@ -117,8 +117,12 @@ https://github.com/faustinoaq/vscode-javac-linter
 https://github.com/ecmel/vscode-spring-boot
 - Java Server Pages (JSP) `pthorsson.vscode-jsp`  
 Let template engine support stay optional.
+- Java Run
+https://github.com/NeverCL/vscode-java-run
 
 ## Feedback
+
+Please let know if you created or found new VS Code extention
 
 - [GitHub issues](https://github.com/paulvi/vscode-java-ide-pack/issues)
 
