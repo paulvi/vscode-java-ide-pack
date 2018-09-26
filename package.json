@@ -1,7 +1,7 @@
 {
     "name": "java-ide-pack",
     "displayName": "Java IDE Pack",
-    "description": "All Java extensions to bootstrap VS Code for Java development.",
+    "description": "All awesome VS Code extensions for Java development.",
     "version": "1.2.0",
     "publisher": "pverest",
     "engines": {
@@ -9,7 +9,7 @@
     },
     "icon": "duke-plug.png",
     "galleryBanner": {
-        "color": "#FF0000",
+        "color": "#F80000",
         "theme": "dark"
     },
     "keywords": [
