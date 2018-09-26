@@ -116,6 +116,8 @@ https://github.com/faustinoaq/vscode-javac-linter
 https://github.com/ecmel/vscode-spring-boot
 - Java Server Pages (JSP) `pthorsson.vscode-jsp`  
 Let template engine support stay optional.
+- Java Run
+https://github.com/NeverCL/vscode-java-run
 
 ## Feedback
 
