@@ -2,7 +2,7 @@
     "name": "java-ide-pack",
     "displayName": "Java IDE Pack",
     "description": "All awesome VS Code extensions for Java development.",
-    "version": "1.2.0",
+    "version": "1.2.1",
     "publisher": "pverest",
     "engines": {
        "vscode": "^1.26.0"

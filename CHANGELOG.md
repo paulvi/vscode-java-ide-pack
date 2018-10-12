@@ -1,5 +1,8 @@
 # Change Log
 
+## 1.2.1 - 2018-10-12
+- republish with the latest `vsce`, ref https://github.com/Microsoft/vscode/issues/59548
+
 ## 1.2.0 - 2018-09-26
 - include "Spring Boot Dashboard" `vscjava.vscode-spring-boot-dashboard`
 https://github.com/Microsoft/vscode-spring-boot-dashboard
